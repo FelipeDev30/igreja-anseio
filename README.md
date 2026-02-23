@@ -1,4 +1,4 @@
-# Igreja Batista Anseio - Site
+# Igreja Anseio - Site
 
 Site responsivo e moderno da Igreja Batista Anseio desenvolvido em HTML, CSS e JavaScript.
 
